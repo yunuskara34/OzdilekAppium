@@ -1,0 +1,10 @@
+Created by Yunus 
+
+# Açılış Sayfasında <text> alanını kontorl et
+* id "com.ozdilek.ozdilekteyim:id/textView" li elementi bul ve <text> alanını kontrol et
+
+# Alışverişe başla butonuna bas
+*id "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" li elemente tıkla
+
+# Alışveriş Sayfasında <text> alanını kontol et
+* xpath "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayStore']/android.widget.TextView" li elementi bul ve <text> alanını kontrol et

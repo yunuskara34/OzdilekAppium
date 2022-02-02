@@ -1,0 +1,11 @@
+Created by Yunus
+
+# Login ekranında <text> olduğunu kontrol et
+* id "com.ozdilek.ozdilekteyim:id/btnLogin" li elementi bul ve <text> alanını kontrol et
+
+# Kullanıcı adı alanına <text> değerini yaz
+* id "com.ozdilek.ozdilekteyim:id/etEposta" li ementi bul ve <text> değerini yaz
+# Password alanına <text> değerini yaz
+* id "com.ozdilek.ozdilekteyim:id/etPassword" li ementi bul ve <text> değerini yaz
+# Geri butonuna tıkla
+* id "com.ozdilek.ozdilekteyim:id/ivBack" li elemente tıkla
